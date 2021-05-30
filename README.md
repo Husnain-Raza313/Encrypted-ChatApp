@@ -52,7 +52,7 @@ Wireshark sniffed information:
  
 
 Same for Client Side:
-When Client replied with “ hi, what’s up?” to the Server
+When Client replied with <i>“ hi, what’s up?”</i> to the Server
  ![image](https://user-images.githubusercontent.com/85040899/120102858-6af1f980-c166-11eb-8774-dac664cf3145.png)
 
 
@@ -63,6 +63,7 @@ Wireshark sniffed information:
 Key Remains the Same until count of messages exchanged by Server and Client exceeds 5(excluding unencrypted messages count);i.e. in this case Server msgs=3(hello, nothing much, yes) and Client msgs=3(hi what’s up , oh okay, hello)
 
  i.e. count==6, the 6th message will be delivered by using the updated key which is updated by a certain formula
+ 
 ![image](https://user-images.githubusercontent.com/85040899/120102890-86f59b00-c166-11eb-8413-1adf6369501b.png)
 
  
