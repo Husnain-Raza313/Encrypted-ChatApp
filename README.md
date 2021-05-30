@@ -23,6 +23,8 @@ How it Works!!
 <b>Note: Server side must be run first followed by the Client Side and the first two messages from the Server must be “what is your computer name?” and “what is your mac address?” respectively, to initiate the encryption. (I tried to explain everything properly, but in case there is any confusion or any query or any need of explanation, please contact me on gmail hussnainrezamir72@gmail.com”) </b>
 
 At the initiation of the program and establishment of connection, server is supposed to ask the client “what is your computer name?”, to which client will automatically reply with its computer name.
+
+
  ![image](https://user-images.githubusercontent.com/85040899/120102767-12baf780-c166-11eb-94a9-6cbae5453bdc.png)
 
 
