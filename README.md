@@ -46,19 +46,10 @@ Wireshark sniffed information:
  ![image](https://user-images.githubusercontent.com/85040899/120102866-704f4400-c166-11eb-813e-737b3d5cd6a5.png)
 
 
-Key Remains the Same until count of messages exchanged by Server and Client exceeds 5(excluding unencrypted messages count);i.e. in this case Server msgs=3(hello, nothing much, yes) and Client msgs=3(hi what’s up , oh okay, hello)
-
- i.e. count==6, the 6th message will be delivered by using the updated key which is updated by a certain formula
+Key Remains the Same until count of messages exchanged by Server and Client exceeds 5(excluding unencrypted messages count)
+The message sent by client on count 6 is hello, which would be encrypted by an updated key.
  
 ![image](https://user-images.githubusercontent.com/85040899/120102890-86f59b00-c166-11eb-8413-1adf6369501b.png)
-
- 
-
-The message sent by client on count 6 is hello, which would be encrypted by an updated key.
-
-What WireShark Captured instead of “hello”:
-
- ![image](https://user-images.githubusercontent.com/85040899/120102901-9379f380-c166-11eb-87d7-122aba259654.png)
 
 And this will be continued in the same manner for further encryption of messages.
 (user can msg as many times as he/she wants to).
