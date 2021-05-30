@@ -30,19 +30,23 @@ The key will be generated at both sides’ backends( visible on console):
  
 After receiving the Mac Address the chat will become encrypted.
 When Server sends “hello” to Client:
+
  ![image](https://user-images.githubusercontent.com/85040899/120102835-557ccf80-c166-11eb-9af4-edf674a94850.png)
 
 
 Wireshark sniffed information:
+
 ![image](https://user-images.githubusercontent.com/85040899/120102849-5f9ece00-c166-11eb-8f82-8b6dcfa7c356.png)
  
 
 Same for Client Side:
 When Client replied with <i>“ hi, what’s up?”</i> to the Server
+
  ![image](https://user-images.githubusercontent.com/85040899/120102858-6af1f980-c166-11eb-8774-dac664cf3145.png)
 
 
 Wireshark sniffed information:
+
  ![image](https://user-images.githubusercontent.com/85040899/120102866-704f4400-c166-11eb-813e-737b3d5cd6a5.png)
 
 
