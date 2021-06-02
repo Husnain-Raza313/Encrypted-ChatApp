@@ -12,7 +12,7 @@ Encrypted CHATAPP
 </ul>
 
 <h3>How it Works!!</h3>
-
+(check video)
 
 
 
