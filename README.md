@@ -11,8 +11,7 @@ Encrypted CHATAPP
 <li>Netbeans and JDK(Java Development Kit)<li>
 </ul>
 
-<h3>How it Works!!</h3>
-(check video)
+<h3>How it Works!!</h3> <i>(check video)</i>
 
 
 
