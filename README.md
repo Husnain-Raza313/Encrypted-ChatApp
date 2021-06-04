@@ -13,11 +13,11 @@ Encrypted CHATAPP
 
 <h3>How it Works!!</h3> <i>(check video)</i>
 
+https://user-images.githubusercontent.com/85040899/120104373-9debbb80-c16d-11eb-873d-f977abb466d4.mp4
 
+<b>Note: Server side must be run first followed by the Client Side and the first two messages from the Server must be “what is your computer name?” and “what is your mac address?” respectively, to initiate the encryption.</b>
 
-<b>Note: Server side must be run first followed by the Client Side and the first two messages from the Server must be “what is your computer name?” and “what is your mac address?” respectively, to initiate the encryption. (I tried to explain everything properly, but in case there is any confusion or any query or any need of explanation, please contact me on gmail hussnainrezamir72@gmail.com”) </b>
-
-At the initiation of the program and establishment of connection, server is supposed to ask the client “what is your computer name?”, to which client will automatically reply with its computer name.Then Server will request for client’s mac address by stating “what is your mac address?” , to which client will reply with its mac address automatically
+At the establishment of connection, server will ask client the above mentioned questions, to which client will <i>automatically</i> reply with its computer name and mac address.
  
 
 ![image](https://user-images.githubusercontent.com/85040899/120102777-18b0d880-c166-11eb-9356-2f27776364b8.png)
@@ -57,8 +57,8 @@ The message sent by client on count 6 is hello, which would be encrypted by an u
 And this will be continued in the same manner for further encryption of messages.
 (user can msg as many times as he/she wants to).
 
-<h3>Let's try it on some other Computer!!</h3>
+
  
-https://user-images.githubusercontent.com/85040899/120104373-9debbb80-c16d-11eb-873d-f977abb466d4.mp4
+
 
 
